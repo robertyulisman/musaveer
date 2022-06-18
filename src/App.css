@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.sholat-container {
+  height: 300px;
+  width: 100%;
+  color: #ffffff;
+  background-color: rgb(92, 91, 91);
+}
+.sholat-container p {
+  font-size: 25px;
+  margin: 0;
+  padding: 3px 5px;
+}

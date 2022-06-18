@@ -1,0 +1,628 @@
+[
+    {
+        "location_id": "6894498",
+        "name": "Shenanigans Bar and Grill",
+        "latitude": "1.08614",
+        "longitude": "103.94247",
+        "num_reviews": "6",
+        "timezone": "Asia/Jakarta",
+        "location_string": "Batam Center, Batam, Riau Archipelago, Riau Islands Province",
+        "awards": [],
+        "doubleclick_zone": "as.indonesia.riau.batam",
+        "preferred_map_engine": "default",
+        "raw_ranking": "3.0854506492614746",
+        "ranking_geo": "Batam",
+        "ranking_geo_id": "297717",
+        "ranking_position": "158",
+        "ranking_denominator": "484",
+        "ranking_category": "restaurant",
+        "ranking": "#139 of 530 Restaurants in Batam",
+        "distance": "1.799908558479455",
+        "distance_string": "1.8 km",
+        "bearing": "southeast",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Restaurant_Review-g3477616-d6894498-Reviews-Shenanigans_Bar_and_Grill-Batam_Center_Batam_Riau_Archipelago_Riau_Islands_Provi.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g3477616-d6894498-Shenanigans_Bar_and_Grill-Batam_Center_Batam_Riau_Archipelago_Riau_Islands_Province.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Batam Center",
+                "abbrv": null,
+                "location_id": "3477616"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "island",
+                        "name": "Island"
+                    }
+                ],
+                "name": "Batam",
+                "abbrv": null,
+                "location_id": "297717"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "islandgroup",
+                        "name": "Island Group"
+                    }
+                ],
+                "name": "Riau Archipelago",
+                "abbrv": null,
+                "location_id": "2347741"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "province",
+                        "name": "Province"
+                    }
+                ],
+                "name": "Riau Islands Province",
+                "abbrv": null,
+                "location_id": "297716"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Indonesia",
+                "abbrv": null,
+                "location_id": "294225"
+            }
+        ],
+        "category": {
+            "key": "restaurant",
+            "name": "Restaurant"
+        },
+        "subcategory": [
+            {
+                "key": "sit_down",
+                "name": "Sit down"
+            }
+        ],
+        "parent_display_name": "Batam Center",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+62 778 8381492",
+        "email": "Shenanigansbarandgrill@yahoo.com",
+        "address_obj": {
+            "street1": "Komplex Newtown Shop, Marina City, No. 13 and 14. Waterfront City",
+            "street2": null,
+            "city": "Batam Center",
+            "state": null,
+            "country": "Indonesia",
+            "postalcode": "29445"
+        },
+        "address": "Komplex Newtown Shop, Marina City, No. 13 and 14. Waterfront City, Batam Center, Riau Islands Province 29445 Indonesia",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+            {
+                "key": "4617",
+                "name": "Italian"
+            },
+            {
+                "key": "9908",
+                "name": "American"
+            },
+            {
+                "key": "10618",
+                "name": "Irish"
+            },
+            {
+                "key": "10659",
+                "name": "Asian"
+            }
+        ],
+        "dietary_restrictions": [],
+        "establishment_types": [
+            {
+                "key": "10591",
+                "name": "Restaurants"
+            }
+        ]
+    },
+    {
+        "location_id": "13505458",
+        "name": "BisaNgopi",
+        "latitude": "1.110213",
+        "longitude": "103.96286",
+        "num_reviews": "3",
+        "timezone": "Asia/Jakarta",
+        "location_string": "Sekupang, Batam, Riau Archipelago, Riau Islands Province",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/d5/b5/1e/waktu-mampir-ke-bisangopi.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/d5/b5/1e/waktu-mampir-ke-bisangopi.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "960",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/d5/b5/1e/waktu-mampir-ke-bisangopi.jpg",
+                    "height": "720"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/d5/b5/1e/waktu-mampir-ke-bisangopi.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/d5/b5/1e/waktu-mampir-ke-bisangopi.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-05-03T06:45:01-0400",
+            "caption": "Waktu mampir ke BisaNgopi ada beberapa vespa vintage warna-warni. Langsung aja berpose.",
+            "id": "315995422",
+            "helpful_votes": "1",
+            "published_date": "2018-05-03T06:45:01-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "doubleclick_zone": "as.indonesia.riau.batam",
+        "preferred_map_engine": "default",
+        "raw_ranking": "3.0777437686920166",
+        "ranking_geo": "Batam",
+        "ranking_geo_id": "297717",
+        "ranking_position": "181",
+        "ranking_denominator": "484",
+        "ranking_category": "restaurant",
+        "ranking": "#162 of 530 Restaurants in Batam",
+        "distance": "3.2471962091063276",
+        "distance_string": "3.2 km",
+        "bearing": "east",
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Restaurant_Review-g2543846-d13505458-Reviews-BisaNgopi-Sekupang_Batam_Riau_Archipelago_Riau_Islands_Province.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g2543846-d13505458-BisaNgopi-Sekupang_Batam_Riau_Archipelago_Riau_Islands_Province.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Sekupang",
+                "abbrv": null,
+                "location_id": "2543846"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "island",
+                        "name": "Island"
+                    }
+                ],
+                "name": "Batam",
+                "abbrv": null,
+                "location_id": "297717"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "islandgroup",
+                        "name": "Island Group"
+                    }
+                ],
+                "name": "Riau Archipelago",
+                "abbrv": null,
+                "location_id": "2347741"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "province",
+                        "name": "Province"
+                    }
+                ],
+                "name": "Riau Islands Province",
+                "abbrv": null,
+                "location_id": "297716"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Indonesia",
+                "abbrv": null,
+                "location_id": "294225"
+            }
+        ],
+        "category": {
+            "key": "restaurant",
+            "name": "Restaurant"
+        },
+        "subcategory": [],
+        "parent_display_name": "Sekupang",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+62 778 8012447",
+        "website": "http://www.bisangopi.com",
+        "address_obj": {
+            "street1": "Jl. Gajah Mada",
+            "street2": "Ruko Gajah Mada Square",
+            "city": "Sekupang",
+            "state": null,
+            "country": "Indonesia",
+            "postalcode": "29428"
+        },
+        "address": "Jl. Gajah Mada Ruko Gajah Mada Square, Sekupang, Riau Islands Province 29428 Indonesia",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+            {
+                "key": "10659",
+                "name": "Asian"
+            },
+            {
+                "key": "10690",
+                "name": "Indonesian"
+            }
+        ],
+        "dietary_restrictions": [],
+        "establishment_types": [
+            {
+                "key": "10591",
+                "name": "Restaurants"
+            }
+        ]
+    },
+    {
+        "location_id": "15240173",
+        "name": "Auto Cafe Batam",
+        "latitude": "1.108938",
+        "longitude": "103.957985",
+        "num_reviews": "3",
+        "timezone": "Asia/Jakarta",
+        "location_string": "Batam Center, Batam, Riau Archipelago, Riau Islands Province",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/10/1c/c5/getlstd-property-photo.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/10/1c/c5/getlstd-property-photo.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1152",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/15/10/1c/c5/getlstd-property-photo.jpg",
+                    "height": "864"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/10/1c/c5/getlstd-property-photo.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/10/1c/c5/getlstd-property-photo.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-10-16T08:28:48-0400",
+            "caption": "getlstd_property_photo",
+            "id": "353377477",
+            "helpful_votes": "0",
+            "published_date": "2018-10-16T08:28:48-0400",
+            "user": null
+        },
+        "awards": [],
+        "doubleclick_zone": "as.indonesia.riau.batam",
+        "preferred_map_engine": "default",
+        "raw_ranking": "3.0589241981506348",
+        "ranking_geo": "Batam",
+        "ranking_geo_id": "297717",
+        "ranking_position": "234",
+        "ranking_denominator": "484",
+        "ranking_category": "restaurant",
+        "ranking": "#209 of 530 Restaurants in Batam",
+        "distance": "2.6885513073875775",
+        "distance_string": "2.7 km",
+        "bearing": "east",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$10,000 - $200,000",
+        "description": "Auto Cafe is a restaurant with otomotives theme",
+        "web_url": "https://www.tripadvisor.com/Restaurant_Review-g3477616-d15240173-Reviews-Auto_Cafe_Batam-Batam_Center_Batam_Riau_Archipelago_Riau_Islands_Province.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g3477616-d15240173-Auto_Cafe_Batam-Batam_Center_Batam_Riau_Archipelago_Riau_Islands_Province.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Batam Center",
+                "abbrv": null,
+                "location_id": "3477616"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "island",
+                        "name": "Island"
+                    }
+                ],
+                "name": "Batam",
+                "abbrv": null,
+                "location_id": "297717"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "islandgroup",
+                        "name": "Island Group"
+                    }
+                ],
+                "name": "Riau Archipelago",
+                "abbrv": null,
+                "location_id": "2347741"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "province",
+                        "name": "Province"
+                    }
+                ],
+                "name": "Riau Islands Province",
+                "abbrv": null,
+                "location_id": "297716"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Indonesia",
+                "abbrv": null,
+                "location_id": "294225"
+            }
+        ],
+        "category": {
+            "key": "restaurant",
+            "name": "Restaurant"
+        },
+        "subcategory": [
+            {
+                "key": "cafe",
+                "name": "Café"
+            }
+        ],
+        "parent_display_name": "Batam Center",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+62 853-8200-1717",
+        "address_obj": {
+            "street1": "Jl. Tiban Utara No.3",
+            "street2": "Komp. Hafindo Square A 01-06",
+            "city": "Batam Center",
+            "state": null,
+            "country": "Indonesia",
+            "postalcode": "29424"
+        },
+        "address": "Jl. Tiban Utara No.3 Komp. Hafindo Square A 01-06, Batam Center, Riau Islands Province 29424 Indonesia",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+            {
+                "key": "10641",
+                "name": "Pizza"
+            }
+        ],
+        "dietary_restrictions": [],
+        "establishment_types": [
+            {
+                "key": "10591",
+                "name": "Restaurants"
+            }
+        ]
+    },
+    {
+        "location_id": "6488593",
+        "name": "RM Sindo",
+        "latitude": "1.11623",
+        "longitude": "103.94069",
+        "num_reviews": "1",
+        "timezone": "Asia/Jakarta",
+        "location_string": "Batam Center, Batam, Riau Archipelago, Riau Islands Province",
+        "awards": [],
+        "doubleclick_zone": "as.indonesia.riau.batam",
+        "preferred_map_engine": "default",
+        "raw_ranking": "3.0310933589935303",
+        "ranking_geo": "Batam",
+        "ranking_geo_id": "297717",
+        "ranking_position": "320",
+        "ranking_denominator": "484",
+        "ranking_category": "restaurant",
+        "ranking": "#288 of 530 Restaurants in Batam",
+        "distance": "1.8363924538924759",
+        "distance_string": "1.8 km",
+        "bearing": "north",
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Restaurant_Review-g3477616-d6488593-Reviews-RM_Sindo-Batam_Center_Batam_Riau_Archipelago_Riau_Islands_Province.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g3477616-d6488593-RM_Sindo-Batam_Center_Batam_Riau_Archipelago_Riau_Islands_Province.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Batam Center",
+                "abbrv": null,
+                "location_id": "3477616"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "island",
+                        "name": "Island"
+                    }
+                ],
+                "name": "Batam",
+                "abbrv": null,
+                "location_id": "297717"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "islandgroup",
+                        "name": "Island Group"
+                    }
+                ],
+                "name": "Riau Archipelago",
+                "abbrv": null,
+                "location_id": "2347741"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "province",
+                        "name": "Province"
+                    }
+                ],
+                "name": "Riau Islands Province",
+                "abbrv": null,
+                "location_id": "297716"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Indonesia",
+                "abbrv": null,
+                "location_id": "294225"
+            }
+        ],
+        "category": {
+            "key": "restaurant",
+            "name": "Restaurant"
+        },
+        "subcategory": [
+            {
+                "key": "sit_down",
+                "name": "Sit down"
+            }
+        ],
+        "parent_display_name": "Batam Center",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+62 778 321879",
+        "address_obj": {
+            "street1": "Jl. Laks L RE Martadinata 8",
+            "street2": null,
+            "city": "Batam Center",
+            "state": null,
+            "country": "Indonesia",
+            "postalcode": null
+        },
+        "address": "Jl. Laks L RE Martadinata 8, Batam Center, Riau Islands Province Indonesia",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+            {
+                "key": "10643",
+                "name": "Seafood"
+            }
+        ],
+        "dietary_restrictions": [],
+        "establishment_types": [
+            {
+                "key": "10591",
+                "name": "Restaurants"
+            }
+        ]
+    },
+    {
+        "location_id": "297717",
+        "ad_position": "inline1",
+        "ad_size": "8X8",
+        "doubleclick_zone": "as.indonesia.riau.batam",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "islandgroup",
+                        "name": "Island Group"
+                    }
+                ],
+                "name": "Riau Archipelago",
+                "abbrv": null,
+                "location_id": "2347741"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "province",
+                        "name": "Province"
+                    }
+                ],
+                "name": "Riau Islands Province",
+                "abbrv": null,
+                "location_id": "297716"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Indonesia",
+                "abbrv": null,
+                "location_id": "294225"
+            }
+        ],
+        "detail": "0",
+        "page_type": "restaurants",
+        "mob_ptype": "app_restaurants"
+    }
+]
